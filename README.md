@@ -4,4 +4,4 @@
 Roman Verostko [MONOGRAFÍA_RomanVerostko](MONOGRAFÍA_RomanVerostko.pdf)
 
 ## Autoretrato
-[Autorretrato India](Autorretrato_India.md)
+[Retrato India](retrato_india.pde)
