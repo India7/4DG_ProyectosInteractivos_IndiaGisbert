@@ -3,5 +3,5 @@
 ## Monografía
 Roman Verostko [MONOGRAFÍA_RomanVerostko](MONOGRAFÍA_RomanVerostko.pdf)
 
-## Autoretrato
+## Retrato processing
 [Retrato India](retrato_india.pde)
