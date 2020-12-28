@@ -12,3 +12,10 @@
 
 ## Propuesta de color y tipografía LivealCode
 ### Grupo: Omar, Rebeca, Clara P. e India.[Propuesta](propuesta_color_tipo_livecoding.pdf)
+
+## Mupi LiveAlcode
+Por India Gisbert y Rebeca Jordá
+### [Mupi intento 1](mupi_intento_1.mp4)
+### [Mupi intento 2](mupi_intento_2.mp4)
+### [Mupi LiveAlcode definitivo](mupi_livealcode.mp4)
+### [Mupi Livecoders definitivo](mupi_livecoders.mp4)
